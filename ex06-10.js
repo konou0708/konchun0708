@@ -4,5 +4,5 @@ function imgchange1() {
     }
     function imgchange2() {
         document.getElementById('logo').src= 
-        './img/OIP.jpeg';
+        '20221208-OYT1I50027-1.webp';
         }
